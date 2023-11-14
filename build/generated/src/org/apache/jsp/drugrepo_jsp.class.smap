@@ -1,0 +1,18 @@
+SMAP
+drugrepo_jsp.java
+JSP
+*S JSP
+*F
++ 0 drugrepo.jsp
+drugrepo.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,14:50
+1#1,39:64
+14#0,54:103
+1#2,90:156
+67#0,3:246
+*E
